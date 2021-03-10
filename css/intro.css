@@ -1,0 +1,29 @@
+.section-intro{
+	background-color: rgba(134, 79, 156, 1);
+}
+.section-intro-inner{
+	    text-align: center;
+	    min-height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+.section-intro-inner h1{
+	    max-width: 920px;
+    font-size: 40px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+.button-intro{
+	background: rgba(235, 125, 75, 1);
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 20px 70px;
+    cursor: pointer;
+    transition: all 0.3s;
+    color: #FFF;
+    font-size: 20px;
+    border-bottom: 4px solid #C16852;
+}

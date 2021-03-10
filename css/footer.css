@@ -1,0 +1,20 @@
+.footer{
+	background-color: rgb(39 57 113);
+}
+.footer-body{
+	padding: 20px;
+}
+.footer-body ul{
+	    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-body li a{
+	    color: #fff;
+    text-decoration: none;
+    font-size: 22px;
+    text-transform: capitalize;
+}

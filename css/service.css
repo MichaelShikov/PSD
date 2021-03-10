@@ -1,0 +1,21 @@
+.section-service{
+	background-color: #16c2a3;
+	color: #FFF;
+}
+.service-item img{
+	margin-bottom: 40px;
+}
+.service-item h3{
+	margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.service-item p{
+	    margin: 0 auto;
+    max-width: 200px;
+    line-height: 15px;
+    font-weight: 100;
+    font-size: 15px;
+    padding: 0;
+}
+

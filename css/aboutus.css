@@ -1,0 +1,32 @@
+.section-aboutus{
+	background-color: #D74680;
+	color: #FFF;
+}
+.aboutus{
+	padding: 0 30px;
+	margin-bottom: 50px;
+}
+.member{
+	text-align: left;
+ /*   padding: 0 20px;*/
+    padding-right: 40px;
+}
+.member img{
+	margin:0 0 20px;
+	padding-left: 30px;
+}
+.member p{
+	font-weight: 100;
+    font-style: italic;
+    text-align: left;
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+.member h3{
+	padding-bottom: 7px;
+}
+.member h5{
+	margin-bottom: 7px;
+	color: #F6BE93;
+	font-size: 15px;
+}

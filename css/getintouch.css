@@ -1,0 +1,55 @@
+.section-getinttouch{
+	background-color: rgb(60 83 153);
+	color: #ffffff;
+}
+.section-getinttouch-form{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0;
+}
+.getintouch-form-input-data{
+	width: 90%;
+	font-size: 20px;
+    display: block;
+    padding: 15px 12px;
+    font-size: 15px;
+    margin-bottom: 25px;
+    color: #FFF;
+    border-radius: 5px;
+    border: none;
+    display: block;
+    background-color: rgb(39 57 113);
+    position: relative;
+}
+input[type="text"]{
+
+}
+.getintouch-controller-massage{
+	margin-bottom: 20px;
+}
+
+.getintouch-controller-massage{
+	width: 100%;
+}
+textarea{
+	width: 95%;
+    background-color: rgb(39 57 113);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px 15px;
+    color: #fff;
+}
+.getintouch-button{
+	    background: #17C1A3;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 20px 70px;
+    cursor: pointer;
+    transition: all 0.3s;
+    color: #FFF;
+    font-size: 20px;
+    border-bottom: 4px solid #14A58C;
+    text-transform: uppercase;
+}
